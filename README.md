@@ -1,33 +1,55 @@
-# 👋 Hello, I'm Richa Jha
+👋 Hey, I’m Richa Jha
 
-Welcome to my GitHub profile! I'm a passionate learner with skills in HTML, C, C++, and Data Structures and Algorithms (DSA). I love exploring new technologies and improving my coding skills. Here you'll find some of the projects I've worked on, showcasing my journey and growth as a developer.
+I build apps, solve problems, and work with machine learning models. My focus areas include Flutter development, Data Structures & Algorithms in Java, and Python-based ML workflows. I prefer writing clean, efficient code and constantly pushing myself to level up.
 
----
+⸻
 
-## 🛠️ Skills
+🛠️ Tech Stack
 
-- **Languages**: HTML, C, C++
-- **Concepts**: Data Structures and Algorithms (DSA)
-- **Tools**: Git, GitHub, VS Code
+Mobile & App Development
+	•	Flutter
+	•	Dart
+	•	Tools: Android Studio, Xcode, VS Code, Emulators/Simulators
 
----
+Programming
+	•	Java (DSA, OOPs)
+	•	Python
+	•	C, C++
 
-## 📚 Projects
+Machine Learning
+	•	NumPy
+	•	Pandas
+	•	Matplotlib
+	•	Scikit-Learn
+	•	ML Fundamentals
+	•	Deep Learning Basics
+	•	Machine Learning Lifecycle (MLL)
+	•	RAG Chain
 
-### 1. [Project Name](#)
-**Description**: A brief description of what the project does.
+⸻
 
-**Technologies Used**: HTML, C++
+📚 Projects
 
-### 2. [Project Name](#)
-**Description**: A brief description of what the project does.
+(Replace placeholders with your actual project names and links later.)
 
-**Technologies Used**: C, DSA
+1. Flutter App – Project Name
 
----
+Short description of the project.
+Tech: Flutter, Dart
 
-## 📈 GitHub Stats
+2. ML Project – Project Name
 
+Short description of what the model or pipeline does.
+Tech: Python, NumPy, Pandas, Scikit-Learn
+
+3. Java DSA – Repository
+
+Collection of algorithms and problem-solving implementations.
+Tech: Java
+
+⸻
+
+📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
